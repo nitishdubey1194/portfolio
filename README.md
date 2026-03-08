@@ -1,36 +1,76 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# Hi 👋 I'm Nitish Dubey
 
-## Getting Started
+AI / ML Developer | Full Stack Developer | Open Source Learner
+---
 
-First, run the development server:
+## 👨‍💻 About Me
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+I'm an **AI/ML developer and software engineer** passionate about building intelligent systems and scalable web applications.
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+I enjoy working with:
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+* Artificial Intelligence
+* Machine Learning
+* Data Cleaning & Processing
+* Web Development
+* Automation Tools
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+---
 
-## Learn More
+## 🚀 What I'm Working On
 
-To learn more about Next.js, take a look at the following resources:
+* Building **AI powered data processing tools**
+* Developing **Next.js applications**
+* Experimenting with **LLMs and local models using Ollama**
+* Creating **automation scripts and APIs**
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+---
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+## 🧠 Technical Skills
 
-## Deploy on Vercel
+**Programming**
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+Python • JavaScript • PHP • SQL
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+**AI / ML**
+
+Machine Learning • Data Cleaning • Prompt Engineering • LLM Applications
+
+**Web Development**
+
+HTML • CSS • Next.js • Node.js • REST APIs
+
+**Tools**
+
+Git • Linux • Docker • Vercel
+
+---
+
+## 📚 Projects
+
+### 🔹 AI Data Cleaning Tool
+
+A system that cleans messy CRM data using AI prompts and normalization techniques.
+
+### 🔹 Personalized Allergy Tracker
+
+A system that tracks allergies and sends personalized notifications.
+
+### 🔹 E-commerce Platform
+
+Full-stack shopping platform with cart management and order system.
+
+---
+
+## 🌱 Currently Learning
+
+* Advanced Machine Learning
+* AI Agents
+* LLM Applications
+* System Design for AI products
+
+---
+
+## 📫 Connect With Me
+
+LinkedIn: https://linkedin.com/in/nitishdubey1194
