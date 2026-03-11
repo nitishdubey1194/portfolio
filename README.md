@@ -38,7 +38,7 @@ Machine Learning • Data Cleaning • Prompt Engineering • LLM Applications
 
 **Web Development**
 
-HTML • CSS • Next.js • Node.js • REST APIs • PHP • React-native • SUPABASE • SHOPIFY • FIREBASE • RAZORPAY • STRIPE 
+HTML • CSS • Next.js • Node.js • REST APIs • PHP • React-native • Supabase • Shopify • Firebase • Razorpay • Stripe 
 
 **Tools**
 
