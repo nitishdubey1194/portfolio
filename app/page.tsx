@@ -4,17 +4,22 @@ export default function Home() {
     {
       title: "Personalized Allergy Tracker",
       desc: "AI-powered system that tracks user allergies and sends notifications based on symptoms and environmental triggers.",
-      tech: "Nextjs • Openai • Supabase • Vercel"
+      tech: "Python • Machine Learning • API"
     },
     {
       title: "AI Chatbot",
       desc: "Local LLM chatbot using Ollama with API integrations for intelligent conversations.",
-      tech: "Python • Langchain • Ollama • Streamlit"
+      tech: "LLM • Node.js • AI"
+    },
+    {
+      title: "Product Recommendation System",
+      desc: "Recommendation engine using collaborative filtering to suggest products.",
+      tech: "Machine Learning • Data Science"
     },
     {
       title: "E-commerce Platform",
       desc: "Full-stack shopping platform with cart, payments, and order management.",
-      tech: "Next.js • Node.js • Mysql • React-native"
+      tech: "Next.js • Node.js • PostgreSQL"
     },
     {
       title: "Treasury & Single Window Government Projects",
@@ -62,30 +67,14 @@ export default function Home() {
         </p>
 
         <p className="mt-4 text-gray-500">
-          I build intelligent systems, automation tools, and AI-powered web applications.
+          Building intelligent systems, automation tools, and AI-powered applications.
         </p>
-
-        <div className="flex justify-center gap-6 mt-6">
-          <a
-            href="https://github.com/nitishdubey1194"
-            className="bg-white text-black px-5 py-2 rounded-lg"
-          >
-            GitHub
-          </a>
-
-          <a
-            href="https://in.linkedin.com/in/nitishdubey1194"
-            className="border border-gray-700 px-5 py-2 rounded-lg"
-          >
-            LinkedIn
-          </a>
-        </div>
       </section>
 
       {/* SKILLS */}
-      <section className="max-w-4xl mx-auto mt-20">
+      <section className="max-w-4xl mx-auto mt-16">
         <h2 className="text-2xl font-semibold mb-6">
-          Tech Stack
+          AI & Tech Stack
         </h2>
 
         <div className="flex flex-wrap gap-3">
@@ -101,9 +90,9 @@ export default function Home() {
       </section>
 
       {/* PROJECTS */}
-      <section className="max-w-5xl mx-auto mt-20">
-        <h2 className="text-2xl font-semibold mb-8">
-          Projects
+      <section className="max-w-4xl mx-auto mt-16">
+        <h2 className="text-2xl font-semibold mb-6">
+          AI Projects
         </h2>
 
         <div className="grid md:grid-cols-2 gap-6">
@@ -117,14 +106,13 @@ export default function Home() {
                 {project.title}
               </h3>
 
-              <p className="text-gray-400 mb-4">
+              <p className="text-gray-400 mb-3">
                 {project.desc}
               </p>
 
-              <p className="text-sm text-gray-500 mb-4">
+              <span className="text-sm text-gray-500">
                 {project.tech}
-              </p>
-
+              </span>
 
             </div>
           ))}
@@ -132,27 +120,8 @@ export default function Home() {
         </div>
       </section>
 
-      {/* GITHUB STATS */}
-      <section className="text-center mt-24">
-        <h2 className="text-2xl font-semibold mb-8">
-          GitHub Stats
-        </h2>
-
-        <div className="flex flex-col items-center gap-6">
-
-          <img
-            src="https://github-readme-stats.vercel.app/api?username=nitishdubey1194&show_icons=true&theme=dark"
-          />
-
-          <img
-            src="https://github-readme-streak-stats.herokuapp.com/?user=nitishdubey1194&theme=dark"
-          />
-
-        </div>
-      </section>
-
       {/* CONTACT */}
-      <section className="text-center mt-24">
+      <section className="text-center mt-20">
         <h2 className="text-2xl font-semibold mb-4">
           Connect
         </h2>
@@ -160,7 +129,7 @@ export default function Home() {
         <div className="flex justify-center gap-6 text-gray-400">
           <a href="https://github.com/nitishdubey1194">GitHub</a>
           <a href="https://in.linkedin.com/in/nitishdubey1194">LinkedIn</a>
-          <a href="mailto:nitishdubey1194@gmail.com">Email</a>
+          <a href="mailto: nitishdubey1194@gmail.com">Email</a>
         </div>
       </section>
 
